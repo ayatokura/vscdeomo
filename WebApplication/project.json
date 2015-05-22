@@ -1,6 +1,6 @@
 {
     "webroot": "wwwroot",
-    "userSecretsId": "aspnet5-WebApplication-5acb4e56-8313-49a6-a384-0e80a67a71a5",
+    "userSecretsId": "aspnet5-WebApplication-908fa05f-5f4e-42d3-adbf-0711404f05a2",
     "version": "1.0.0-*",
     "dependencies": {
         "EntityFramework.SqlServer": "7.0.0-beta4",
@@ -25,7 +25,7 @@
         "Microsoft.Framework.Logging": "1.0.0-beta4",
         "Microsoft.Framework.Logging.Console": "1.0.0-beta4",
         "Kestrel": "1.0.0-beta4",
-        "ClassLibrary": ""
+        "ClassLibrary":""
     },
 
     "commands": {

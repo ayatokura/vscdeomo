@@ -28,13 +28,12 @@ namespace WebApplication
     {
         public Startup(IHostingEnvironment env)
         {
+
             System.Console.WriteLine(env.EnvironmentName);
 
             var dt = new Models.DevTool();
             dt.toolName = "VSCode";
             dt.twitterHandle = "@Code";
-
-            var c = new ClassLibrary.Class1();
             
 
             // Setup configuration sources.
